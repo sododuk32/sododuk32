@@ -1,18 +1,4 @@
 now svg testing... 
-<div align="center">
-	<br>
-	<a href="https://hacks.codes/wp-content/uploads/2022/02/img.gif">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
 
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
+![grab-landing-page](https://raw.githubusercontent.com/sododuk32/shop/bc93cf0785c6d8de29adabfa0bec5308be14e1a9/pages/brr.gif)
