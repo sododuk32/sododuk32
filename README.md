@@ -7,9 +7,14 @@ HI
 <div id="pannel">
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
+ ![ts](https://badgen.net/badge/icon/typescript?icon=typescript&label&color=purple)
 
 </div>
-
+<p align="center">
+  <a href="https://nextjs.org">
+    <h1 align="center"></h1>
+  </a>
+</p>
 
 <!-- https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
  -->
