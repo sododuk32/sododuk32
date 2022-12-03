@@ -4,10 +4,21 @@
 
 HI
 
-<div id="pannel">
- 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
- ![ts](https://badgen.net/badge/icon/typescript?icon=typescript&label&color=purple)
+<div id="pannel">
+ <H2>이거씀
+ 
+ ![ts](https://img.shields.io/badge/Typescript-13.0.3-black)
+ ![ts](https://img.shields.io/badge/Next.js-13.0.3-black)
+ ![ts](https://img.shields.io/badge/React-18.2.0-purple)
+ ![ts](https://img.shields.io/badge/ReactQuery-3.39.2-purple)
+  
+ ![ts](https://img.shields.io/badge/bootstrap-^5.2.2-purple)
+ ![ts](https://img.shields.io/badge/axios-1.2.0-blue)
+ ![ts](https://img.shields.io/badge/webpack-5.74.0-yellow)
+ ![ts](https://img.shields.io/badge/npm-red)
+
+![ts](https://img.shields.io/badge/express-black)
 
 </div>
 <p align="center">
@@ -15,6 +26,8 @@ HI
     <h1 align="center"></h1>
   </a>
 </p>
-
+ 
+ 사진 및 기능 업로드 할곳 
 <!-- https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
+
  -->
