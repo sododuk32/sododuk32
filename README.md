@@ -30,7 +30,7 @@ index페이지 | 제품페이지
 ![index](https://user-images.githubusercontent.com/37325163/207046416-d5ca180c-f0c5-42b7-8d72-d4f341549a1e.gif) |![checkbox](https://user-images.githubusercontent.com/37325163/207048950-1b018c1f-f713-40f5-9415-67748f6f2633.gif)
 기능 | 기능
 로지텍웹의 index | 원하는 물품 검색 기능
-grid기능을 사용해표현한 케러셀  |  api요청을 통한 컨텐츠의 동적 렌더링
+grid기능을 사용해표현한 케러셀  |  api요청을 통한 컨텐츠의 동적 렌더링 , 받아온 api정보를 통한 페이지 네이션,제품 
 
  
  </div>
