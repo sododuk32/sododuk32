@@ -25,8 +25,12 @@
   주요 기능 및 페이지 소개  
  </h2>
 
-항목 1 | 항목 2 
------ | ---------------------------------------------------
-index페이지 |![index](https://user-images.githubusercontent.com/37325163/207046416-d5ca180c-f0c5-42b7-8d72-d4f341549a1e.gif)
-제품페이지 | ![checkbox](https://user-images.githubusercontent.com/37325163/207046367-4b785f73-2034-40b7-81cd-52f3da9ca1a5.gif)
+index페이지 | 제품페이지
+--------------------------------------------------- | --------------------------------------------------- 
+![index](https://user-images.githubusercontent.com/37325163/207046416-d5ca180c-f0c5-42b7-8d72-d4f341549a1e.gif) |![checkbox](https://user-images.githubusercontent.com/37325163/207048950-1b018c1f-f713-40f5-9415-67748f6f2633.gif)
+기능 | 기능
+로지텍웹의 index | 원하는 물품 검색 기능
+grid기능을 사용해표현한 케러셀  |  api요청을 통한 컨텐츠의 동적 렌더링
+
+ 
  </div>
