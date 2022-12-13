@@ -20,6 +20,5 @@ now im working on adapt react-query on my shop repo
 
 </div>
 <p align="center">
- ㅛㄷ
 </p>
  
