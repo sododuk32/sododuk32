@@ -2,9 +2,12 @@
 
 ![grab-landing-page](https://raw.githubusercontent.com/sododuk32/shop/bc93cf0785c6d8de29adabfa0bec5308be14e1a9/pages/brr.gif)
 
- REDUX+REACT-QUERY 도입중. 
+ 현재 작업
+ 1.gcp 배포 
+ 2.클라이언트 전역 상태 관리를 위한 redux도입
+ 3.쿠키를 사용한 로그인 유지. 
+ 4.가능하다면, 서버상태관리를 위한 react-query 사용. 
  
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
 <div id="pannel">
  <H2> what i can do ▽
