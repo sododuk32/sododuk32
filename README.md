@@ -1,12 +1,11 @@
 
 
-![grab-landing-page](https://raw.githubusercontent.com/sododuk32/shop/bc93cf0785c6d8de29adabfa0bec5308be14e1a9/pages/brr.gif)
 
  현재 작업 <br>
- 1순위. gcp 배포  <br> 
- 2순위. 프론트 페이지 제작, 클라이언트 전역 상태 관리를 위한 redux도입 <br>
- 3순위. 쿠키를 사용한 로그인 유지.  <br>
- 4순위. 가능하다면, 서버상태관리를 위한 react-query 사용.  <br>
+ 프로젝트 현황 및 작업 우선순위:<br>
+1순위. 프론트 페이지 추가 제작 ,gcp nginex문제 해결 <br>
+2순위. 사용자 정보 상태관리 작업<br>
+3순위. 가능하다면, 서버상태관리를 위한 react-query 사용.<br> 
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
 <div id="pannel">
