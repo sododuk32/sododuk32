@@ -1,6 +1,6 @@
-<br>및 프론트 전반 css수정<br>
-장바구니 기능수정<br>
-지도 api사용한 기능 작성 <br>
+<br>oauth 도입 <br>
+주문조회 작성<br>
+리뷰 댓글 기능 작성 <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
 <div id="pannel">
  <H2> what i can do ▽
