@@ -3,7 +3,7 @@ oauth 2.0 도입중 <br>
 기존 모든 코드 리펙토링 중  <br>
 댓글 로드 기능 제작 중 <br>
 곧 반응형 웹으로 바꾸기  <br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
+
 <div id="pannel">
  <H2> what i can do ▽
  
