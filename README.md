@@ -1,6 +1,8 @@
-<br>oauth 도입 아래 2개 css와 api작성 마무리 하면 시작! <br>
-주문조회 작성 기능작성완료! 데이터 저장 api만 하면 끝! <br>
-리뷰 댓글 기능 작성 기능작성완료! css만 추가하면 끝!  <br>
+<br>
+oauth 2.0 도입중 <br>
+기존 모든 코드 리펙토링 중  <br>
+댓글 로드 기능 제작 중 <br>
+곧 반응형 웹으로 바꾸기  <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsododuk32%2Fsododuk32&count_bg=%236655D9&title_bg=%23C5D540&icon=reverbnation.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)
 <div id="pannel">
  <H2> what i can do ▽
