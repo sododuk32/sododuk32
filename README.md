@@ -8,7 +8,6 @@
  ![ts](https://img.shields.io/badge/Angular-15-purple)
  ![ts](https://img.shields.io/badge/RTK-blue)
  ![ts](https://img.shields.io/badge/nginx-red)
- ![ts](https://img.shields.io/badge/GCP-blue)
  ![ts](https://img.shields.io/badge/AWS-purple)
  ![ts](https://img.shields.io/badge/axios-1.2.0-blue)
  ![ts](https://img.shields.io/badge/npm-5.74.0-red)
