@@ -7,11 +7,12 @@
  ![ts](https://img.shields.io/badge/React-18.2.0-purple)
  ![ts](https://img.shields.io/badge/Angular-15-purple)
  ![ts](https://img.shields.io/badge/RTK-blue)
- ![ts](https://img.shields.io/badge/nginx-red)
+ ![ts](https://img.shields.io/badge/Nginx-red)
  ![ts](https://img.shields.io/badge/AWS-purple)
- ![ts](https://img.shields.io/badge/axios-1.2.0-blue)
- ![ts](https://img.shields.io/badge/npm-5.74.0-red)
- ![ts](https://img.shields.io/badge/express-4.18-black)
+ ![ts](https://img.shields.io/badge/SWR-blue)
+ ![ts](https://img.shields.io/badge/npm-red)
+ ![ts](https://img.shields.io/badge/yarn-red)
+ ![ts](https://img.shields.io/badge/express-black)
 
 </div>
 <p align="center">
