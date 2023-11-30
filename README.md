@@ -1,6 +1,6 @@
 
 <div id="pannel">
- <H2> ㅇㅇ
+
   
  ![ts](https://img.shields.io/badge/Typescript-13.0.3-black)
  ![ts](https://img.shields.io/badge/ES6-black)
@@ -14,7 +14,7 @@
  ![ts](https://img.shields.io/badge/npm-red)
  ![ts](https://img.shields.io/badge/yarn-red)
  ![ts](https://img.shields.io/badge/express-black)
-
+ ![ts](https://img.shields.io/badge/AWS-purple)
 </div>
 <p align="center">
 </p>
