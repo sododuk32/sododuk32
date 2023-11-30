@@ -14,7 +14,6 @@
  ![ts](https://img.shields.io/badge/npm-red)
  ![ts](https://img.shields.io/badge/yarn-red)
  ![ts](https://img.shields.io/badge/express-black)
- ![ts](https://img.shields.io/badge/AWS-purple)
 </div>
 <p align="center">
 </p>
