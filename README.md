@@ -13,11 +13,11 @@
   ![ts](https://img.shields.io/badge/CloudFlare-black)
  ![ts](https://img.shields.io/badge/SWR-blue)
  ![ts](https://img.shields.io/badge/npm-red)
- ![ts](https://img.shields.io/badge/yarn-red)
+ ![ts](https://img.shields.io/badge/yarn-purple)
  ![ts](https://img.shields.io/badge/express-black)
-![ts](https://img.shields.io/badge/zustand-black)
-![ts](https://img.shields.io/badge/mui-black)
-![ts](https://img.shields.io/badge/docker-black)
+![ts](https://img.shields.io/badge/zustand-purple)
+![ts](https://img.shields.io/badge/mui-blue)
+![ts](https://img.shields.io/badge/docker-red)
 
 </div>
 <p align="center">
