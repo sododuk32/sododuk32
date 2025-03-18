@@ -7,8 +7,8 @@
  ![ts](https://img.shields.io/badge/Next.js-12.3.4-black)
  ![ts](https://img.shields.io/badge/SSR-black)
  ![ts](https://img.shields.io/badge/React-18.2.0-purple)
-  ![ts](https://img.shields.io/badge/React-Native-purple)
-    ![ts](https://img.shields.io/badge/Android-api30-purple)
+![ts](https://img.shields.io/badge/React-Native-purple)
+![ts](https://img.shields.io/badge/Android-api 30 to 33 -purple)
 
  ![ts](https://img.shields.io/badge/Angular-15-purple)
  ![ts](https://img.shields.io/badge/RTK-blue)
