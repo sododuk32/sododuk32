@@ -18,6 +18,7 @@
 ![ts](https://img.shields.io/badge/zustand-purple)
 ![ts](https://img.shields.io/badge/mui-blue)
 ![ts](https://img.shields.io/badge/docker-red)
+ ![ts](https://img.shields.io/badge/Tanstack-Query-blue)
 
 </div>
 <p align="center">
