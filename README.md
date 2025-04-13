@@ -17,7 +17,8 @@
   ![ts](https://img.shields.io/badge/CloudFlare-black)
  ![ts](https://img.shields.io/badge/SWR-blue)
  ![ts](https://img.shields.io/badge/npm-red)
- ![ts](https://img.shields.io/badge/Tailwind3/blue)
+ ![ts](https://img.shields.io/badge/tailwind3-blue)
+
  ![ts](https://img.shields.io/badge/yarn-purple)
  ![ts](https://img.shields.io/badge/express-black)
  
