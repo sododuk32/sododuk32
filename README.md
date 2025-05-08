@@ -26,7 +26,8 @@
 ![ts](https://img.shields.io/badge/docker-red)
 ![ts](https://img.shields.io/badge/Tanstack-Query-blue)
  ![ts](https://img.shields.io/badge/JEST-blue)
-
+ ![ts](https://img.shields.io/badge/WebSocket-red)
+ ![ts](https://img.shields.io/badge/NodeJs-purple)
 </div>
 <p align="center">
 </p>
